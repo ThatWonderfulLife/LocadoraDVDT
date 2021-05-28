@@ -1,4 +1,3 @@
-DROP TABLE IF EXISTS tb_historico;
 DROP TABLE IF EXISTS tb_alugados;
 DROP TABLE IF EXISTS tb_usuario;
 DROP TABLE IF EXISTS tb_pessoa;
